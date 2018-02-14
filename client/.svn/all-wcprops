@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/6/trunk/client
+END
+AboutFormUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/client/AboutFormUnit.pas
+END
+OptionFormUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/client/OptionFormUnit.dfm
+END
+client.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/client/client.dpr
+END
+_clean.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/client/_clean.cmd
+END
+AboutFormUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/client/AboutFormUnit.dfm
+END
+client.dof
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/client/client.dof
+END
+client.res
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/client/client.res
+END
+ResultFormU.pas
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/client/ResultFormU.pas
+END
+MainFormUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/client/MainFormUnit.pas
+END
+AutoUpdateThreadU.pas
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/client/AutoUpdateThreadU.pas
+END
+ResultFormU.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/client/ResultFormU.dfm
+END
+client.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/client/client.cfg
+END
+MainFormUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/client/MainFormUnit.dfm
+END
+OptionFormUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/client/OptionFormUnit.pas
+END

@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.5.2\n"
+"POT-Creation-Date: 2005-03-10 22:12\n"
+"PO-Revision-Date: 2006-06-11 15:21+0800\n"
+"Last-Translator: lqs <lqs.buaa@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.1.1\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2005-05-17 20:24\n"
+"PO-Revision-Date: 2005-05-17 20:24\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2\n"
+"Language-Team: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2005-05-17 20:43\n"
+"PO-Revision-Date: 2005-05-17 20:43\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2006-06-11 15:17\n"
+"PO-Revision-Date: 2006-06-11 15:17\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+
+msgid "%d --- Full Score: %f -- Average Score: %f -- Highest Score: %f"
+msgstr "%d --- 满分: %f -- 平均分: %f -- 最高分: %f"
+
+msgid "%d contestants left."
+msgstr "剩余 %d 名选手。"
+
+msgid "%s (%d contestants)"
+msgstr "%s (%d名选手)"
+
+msgid "%s - Judge Result"
+msgstr "%s - 评测结果"
+
+msgid "%s --- Full Score: %f -- Average Score: %f -- Highest Score: %f"
+msgstr "%s --- 满分: %f -- 平均分: %f -- 最高分: %f"
+
+msgid "%s = Problem's file name (excluding extension)"
+msgstr "%s = 试题文件名(不包括扩展名)"
+
+msgid "%s downloaded successfully."
+msgstr "%s 下载成功。"
+
+msgid "%s downloaded unsuccessfully."
+msgstr "%s 下载失败。"
+
+msgid "&About..."
+msgstr "关于(&A)..."
+
+msgid "&Add"
+msgstr "添加(&A)..."
+
+msgid "&Allow changing settings or exiting from clients"
+msgstr "允许从客户端修改设置或退出"
+
+msgid "&Auto Judge"
+msgstr "自动评测(&A)"
+
+msgid "&Browse Folder"
+msgstr "浏览文件夹(&B)"
+
+msgid "&Buttom:"
+msgstr "下(&B):"
+
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+msgid "&Cena Manual"
+msgstr "&Cena 使用指南"
+
+msgid "&Check for Latest Version"
+msgstr "检查最新版本(&C)"
+
+msgid "&Check for Latest Version..."
+msgstr "检查最新版本(&C)..."
+
+msgid "&Clear Selected"
+msgstr "清除选择的条目"
+
+msgid "&Clients"
+msgstr "客户端(&C)"
+
+msgid "&Close"
+msgstr "关闭(&C)"
+
+msgid "&Close Contest"
+msgstr "关闭竞赛(&C)"
+
+msgid "&Compilaton Command"
+msgstr "编译命令(&C)"
+
+msgid "&Contest Title"
+msgstr "竞赛标题(&C)"
+
+msgid "&Control"
+msgstr "控制(&C)"
+
+msgid "&Crowd Style"
+msgstr "紧密样式"
+
+msgid "&Custom"
+msgstr "自定义(&C)"
+
+msgid "&Default"
+msgstr "默认"
+
+msgid "&Delete"
+msgstr "删除(&D)"
+
+msgid "&Delete All Programs of Selected Contestants"
+msgstr "删除选定选手的所有程序(&D)"
+
+msgid "&Delete from list"
+msgstr "从列表中删除(&D)"
+
+msgid "&Detail"
+msgstr "详细信息(&D)"
+
+msgid "&Detailed Style"
+msgstr "详细样式"
+
+msgid "&Distribute Clients..."
+msgstr "分发客户端(&D)..."
+
+msgid "&Export"
+msgstr "导出(&E)"
+
+msgid "&Extension"
+msgstr "扩展名(&E)"
+
+msgid "&File"
+msgstr "文件(&F)"
+
+msgid "&Gather"
+msgstr "收取(&G)"
+
+msgid "&Gather All"
+msgstr "全部收取(&G)"
+
+msgid "&Gather Programs from Selected Clients"
+msgstr "从选定客户端收取程序(&G)"
+
+msgid "&Help"
+msgstr "帮助(&H)"
+
+msgid "&Homepage"
+msgstr "主页(&H)"
+
+msgid "&Initial Memory Size"
+msgstr "初始内存大小(&I)"
+
+msgid "&Invert Selection"
+msgstr "反向选择(&I)"
+
+msgid "&Judge"
+msgstr "评测(&J)"
+
+msgid "&Judge All"
+msgstr "全部评测(&J)"
+
+msgid "&Judge programs using these programming languages:"
+msgstr "使用以下编程语言评测程序(&J):"
+
+msgid "&Left:"
+msgstr "左(L):"
+
+msgid "&Limit file sizes (for single file)"
+msgstr "限制文件大小(对单个文件)(&L)"
+
+msgid "&Listening Port:"
+msgstr "监听端口(&L):"
+
+msgid "&Mark Selected"
+msgstr "选中选择的条目(&M)"
+
+msgid "&New or Open..."
+msgstr "新建或打开(&N)..."
+
+msgid "&Options..."
+msgstr "选项(&O)..."
+
+msgid "&Pause"
+msgstr "暂停(&P)"
+
+msgid "&Print"
+msgstr "打印(&P)"
+
+msgid "&Print or Export..."
+msgstr "打印或导出(&P)..."
+
+msgid "&Printer Setup..."
+msgstr "打印机设置(&P)..."
+
+msgid "&Rank List"
+msgstr "排名表(&R)"
+
+msgid "&Remove"
+msgstr "删除(&R)"
+
+msgid "&Resume"
+msgstr "继续(&R)"
+
+msgid "&Right:"
+msgstr "右(&R):"
+
+msgid "&Save in"
+msgstr "保存在(&S)"
+
+msgid "&Select All"
+msgstr "全部选定(&S)"
+
+msgid "&Send Feedback"
+msgstr "发送反馈信息(&S)"
+
+msgid "&Simple Style"
+msgstr "简单样式(&S)"
+
+msgid "&Start Service"
+msgstr "启动服务(&S)"
+
+msgid "&Start automatically at bootup"
+msgstr "开机时自动启动(&S)"
+
+msgid "&Status Bar"
+msgstr "状态栏(&S)"
+
+msgid "&Stop Service"
+msgstr "停止服务(&S)"
+
+msgid "&Summary"
+msgstr "纲要(&S)"
+
+msgid "&Test Network Connections"
+msgstr "测试网络连接(&T)"
+
+msgid "&Title"
+msgstr "标题(&T)"
+
+msgid "&Tools"
+msgstr "工具(&T)"
+
+msgid "&Top:"
+msgstr "上(T):"
+
+msgid "&View"
+msgstr "查看(&V)"
+
+msgid "&View Judge Result"
+msgstr "查看评测结果(&V)"
+
+msgid "&View Judge Result..."
+msgstr "查看评测结果(&V)..."
+
+msgid "(Memory Limit only applies to 32-bit Windows programs.)"
+msgstr "(内存限制只应用于 32 位 Windows 程序。)"
+
+msgid "(No Contest Open)"
+msgstr "(没有打开竞赛)"
+
+msgid "(No Contest)"
+msgstr "(没有打开竞赛)"
+
+msgid "(One per line)"
+msgstr "(每行一个)"
+
+msgid "(Unable to Open)"
+msgstr "(无法打开)"
+
+msgid "(Unconfigurated)"
+msgstr "(未配置)"
+
+msgid "(none)"
+msgstr "(无)"
+
+msgid "A fetal error has occurred. Please restart %s."
+msgstr "出现严重错误。请重新启动 %s。"
+
+msgid ""
+"A newer version of Cena is available. Would you like to download it now?"
+msgstr "Cena 有新版本可用。您想现在就下载吗？"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Add &Other Testcases"
+msgstr "添加其他测试点(&O)"
+
+msgid "Add &Problem"
+msgstr "添加试题(&P)"
+
+msgid "Add &Testcase"
+msgstr "添加测试点(&T)"
+
+msgid "Additional Files"
+msgstr "附加文件"
+
+msgid "Are you sure to delete %s's programs and judge result?"
+msgstr "确实要删除 %s 的程序和评测结果?"
+
+msgid ""
+"Are you sure to delete the programs and judge result of selected %d "
+"contestants?"
+msgstr "确实要删除选定的 %d 个选手的程序和评测结果?"
+
+msgid "Are you sure to delete the selected items?"
+msgstr "确实要删除选定的项目?"
+
+msgid "C&lear All"
+msgstr "全部清除(&L)"
+
+msgid "C&ontest Title"
+msgstr "竞赛标题(&O)"
+
+msgid "C&ustom Checker"
+msgstr "自定义校验器(&U)"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Check byte by byte"
+msgstr "逐字节比较"
+
+msgid "Client Info"
+msgstr "客户端信息"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Compare Method"
+msgstr "比较方式"
+
+msgid "Comparing output files..."
+msgstr "比较输出文件..."
+
+msgid "Compileting Judge..."
+msgstr "完成评测..."
+
+msgid "Compiling..."
+msgstr "正在编译..."
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Contest &Title"
+msgstr "竞赛标题(&T)"
+
+msgid "Contest on %s"
+msgstr "在 %s 的竞赛"
+
+msgid "Contestants"
+msgstr "选手"
+
+msgid "Copying input files..."
+msgstr "复制输入文件..."
+
+msgid "Correct"
+msgstr "正确"
+
+msgid "Correct ( %fs )"
+msgstr "正确 ( %fs )"
+
+msgid "Correct ( %fs , %dKB )"
+msgstr "正确 ( %fs , %dKB )"
+
+msgid "Count && Analyze"
+msgstr "统计与分析"
+
+msgid "Count Selected Contestants"
+msgstr "统计选定选手"
+
+msgid "Crash"
+msgstr "崩溃"
+
+msgid "Create a new contest here?"
+msgstr "在此处建立新竞赛?"
+
+msgid "Current &Date and Time"
+msgstr "当前日期和时间(&D)"
+
+msgid "Custom Checker"
+msgstr "自定义校验器"
+
+msgid "Custom Checker Error"
+msgstr "自定义校验器出错"
+
+msgid "Data Configuration"
+msgstr "数据配置"
+
+msgid "Default &Memory Limit"
+msgstr "默认内存限制(&M)"
+
+msgid "Default &Time Limit"
+msgstr "默认时间限制(&T)"
+
+msgid "Default Full &Score"
+msgstr "默认分值(&S)"
+
+msgid "Deleting previous input files..."
+msgstr "正在删除上次的输入文件..."
+
+msgid "Deleting previous output file..."
+msgstr "正在删除上次的输出文件..."
+
+msgid "Detail"
+msgstr "详细信息"
+
+msgid "Distribute Clients"
+msgstr "分发客户端"
+
+msgid "E&xecution Command"
+msgstr "运行命令(&X)"
+
+msgid "E&xit"
+msgstr "退出(&X)"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error %d: %s"
+msgstr "错误 %d: %s"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Extension"
+msgstr "扩展名"
+
+msgid "File Name Limitions"
+msgstr "文件名限制"
+
+msgid "File Name: %s"
+msgstr "文件名: %s"
+
+msgid "File Size Limitions"
+msgstr "文件大小限制"
+
+msgid "Finish judging this problem. Score %s."
+msgstr "该试题评测完成。得 %s 分。"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Footer"
+msgstr "页脚"
+
+msgid "Found file"
+msgstr "找到文件"
+
+msgid "Full Score"
+msgstr "分值"
+
+msgid "Gather &Programs from All Clients"
+msgstr "从所有客户端收取程序(&P)"
+
+msgid "Gather files"
+msgstr "收取文件"
+
+msgid "Gathering"
+msgstr "正在收取"
+
+msgid "Gathering Time"
+msgstr "收取时间"
+
+msgid "Gathering and Judging..."
+msgstr "正在收取和评测..."
+
+msgid "Gathering..."
+msgstr "正在收取..."
+
+msgid "General"
+msgstr "常规"
+
+msgid "Highest Rank: "
+msgstr "最高排名:"
+
+msgid "Highest Score: "
+msgstr "最高分:"
+
+msgid "IP Address"
+msgstr "IP 地址"
+
+msgid "Idle"
+msgstr "空闲"
+
+msgid "Ignore spaces and the empty lines at the end of file."
+msgstr "忽略多余的空格和文件尾的空行"
+
+msgid "Illegality"
+msgstr "犯规"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Input Files"
+msgstr "输入文件"
+
+msgid "Judge"
+msgstr "评测"
+
+msgid "Judge &Modified Programs of Selected Contestants"
+msgstr "评测选定选手的已修改程序(&M)"
+
+msgid "Judge All Programs of &All Contestants"
+msgstr "评测所有选手的程序(&A)"
+
+msgid "Judge All Programs of &Selected Contestants"
+msgstr "评测选定选手的程序(&S)"
+
+msgid "Judge M&odified Programs of All Contestants"
+msgstr "评测所有选手的已修改程序(&O)"
+
+msgid "Judged"
+msgstr "已评测"
+
+msgid "Judging"
+msgstr "正在评测"
+
+msgid "Judging %s (%s) :"
+msgstr "正在评测 %s (%s)..."
+
+msgid "Judging %s's programs..."
+msgstr "正在评测 %s 的程序..."
+
+msgid "Judging Time"
+msgstr "评测时间"
+
+msgid "Judging..."
+msgstr "正在评测..."
+
+msgid "Loading contestant's information..."
+msgstr "读取选手信息..."
+
+msgid "Loading..."
+msgstr "正在读取..."
+
+msgid "Local"
+msgstr "本地"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Lowest Rank: "
+msgstr "最低排名:"
+
+msgid "Lowest Score: "
+msgstr "最低分:"
+
+msgid "M&ark All"
+msgstr "全部标记(&A)"
+
+msgid "Margin"
+msgstr "边距"
+
+msgid "Memory"
+msgstr "内存"
+
+msgid "Memory Limit"
+msgstr "内存限制"
+
+msgid "Memory Limit Exceeded"
+msgstr "超过内存限制"
+
+msgid "Messages"
+msgstr "消息"
+
+msgid "Missing Standard Input"
+msgstr "缺少标准输入"
+
+msgid "Missing Standard Output"
+msgstr "缺少标准输出"
+
+msgid "Move &Down"
+msgstr "下移(&D)"
+
+msgid "Move &Up"
+msgstr "上移(&U)"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "New"
+msgstr "新建"
+
+msgid "New Compiler"
+msgstr "新编译器"
+
+msgid "New or Open"
+msgstr "新建或打开"
+
+msgid "No Output"
+msgstr "无输出"
+
+msgid "No Printers Installed."
+msgstr "没有选定选手。"
+
+msgid "No Selected Contestants."
+msgstr "没有选定选手。"
+
+msgid "No contestants selected."
+msgstr "没有选定选手。"
+
+msgid "Not Gathered"
+msgstr "未收取"
+
+msgid "Not Judged"
+msgstr "未评测"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Only gather files whose &extension is in the compiler list"
+msgstr "只收取扩展名在编译器列表中的文件(&E)"
+
+msgid "Only gather files whose &name is in the current contest"
+msgstr "只收取文件名在本次竞赛中的文件(&N)"
+
+msgid "Operation System"
+msgstr "操作系统"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Output File"
+msgstr "输出文件"
+
+msgid "P&roperties"
+msgstr "属性(&R)"
+
+msgid "Page &Settings..."
+msgstr "页面设置(&S)..."
+
+msgid "Page Settings"
+msgstr "页面设置"
+
+msgid "Partly Correct"
+msgstr "部分正确"
+
+msgid "Partly Correct ( %fs , %dKB , %s/%s )"
+msgstr "部分正确 ( %fs , %dKB , %s/%s )"
+
+msgid "Partly Correct ( %fs , %s/%s )"
+msgstr "部分正确 ( %fs , %s/%s )"
+
+msgid "Please add the first testcase manually."
+msgstr "请手动添加第一个测试点。"
+
+msgid "Please stop judging first."
+msgstr "请先停止评测。"
+
+msgid "Print &Font..."
+msgstr "打印字体(&F)..."
+
+msgid "Print or Export"
+msgstr "打印或导出"
+
+msgid "Problem %d"
+msgstr "试题 %d"
+
+msgid "Problem Title"
+msgstr "试题标题"
+
+msgid "Problem: %s"
+msgstr "试题: %s"
+
+msgid "Problems"
+msgstr "试题"
+
+msgid "Program not found."
+msgstr "找不到程序。"
+
+msgid "Programming Languages"
+msgstr "编程语言"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "R&efresh"
+msgstr "刷新(&E)"
+
+msgid "R&eport"
+msgstr "报告(&E)"
+
+msgid "Rank"
+msgstr "排名"
+
+msgid "Rank by Selected Problems"
+msgstr "按选定试题排名"
+
+msgid "Recent"
+msgstr "最新"
+
+msgid "Rejudge"
+msgstr "重新评测"
+
+msgid "Remote"
+msgstr "远程"
+
+msgid "Rena&me"
+msgstr "重命名(&M)"
+
+msgid "Result"
+msgstr "评测结果"
+
+msgid "Running..."
+msgstr "正在运行..."
+
+msgid "Runtime Error %d"
+msgstr "运行时错误 %d"
+
+msgid "Score"
+msgstr "得分"
+
+msgid "Score: %s"
+msgstr "得分: %s"
+
+msgid "Select &All"
+msgstr "全部选定(&A)"
+
+msgid "Service started."
+msgstr "服务已启动。"
+
+msgid "Service stopped."
+msgstr "服务已停止。"
+
+msgid "Size:"
+msgstr "大小:"
+
+msgid "Source File"
+msgstr "源文件"
+
+msgid "Specified"
+msgstr "指定"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Summary"
+msgstr "纲要"
+
+msgid "Table (*.csv)|*.csv"
+msgstr "表格 (*.csv)|*.csv"
+
+msgid "Test data is not configured."
+msgstr "测试数据没有配置。"
+
+msgid "Testcase"
+msgstr "测试点"
+
+msgid "Testcase %d"
+msgstr "测试点%d"
+
+msgid "The Judging System for Computer Programming Contests."
+msgstr "用于计算机程序竞赛的评测系统"
+
+msgid "The program hasn't been modified. No need to judge."
+msgstr "程序未被修改，无须评测。"
+
+msgid "The test message has been sent."
+msgstr "测试消息已发送。"
+
+msgid "There are some files in the folder, continue?"
+msgstr "该文件夹下已有文件，是否继续?"
+
+msgid "This Contestant"
+msgstr "此选手"
+
+msgid "This Problem"
+msgstr "此试题"
+
+msgid "This Testcase"
+msgstr "此测试点"
+
+msgid "This contestant is being judged. Please wait."
+msgstr "该选手正在被评测。请稍候。"
+
+msgid "Time"
+msgstr "用时"
+
+msgid "Time Limit"
+msgstr "时间限制"
+
+msgid "Time Limit Exceeded"
+msgstr "超过时间限制"
+
+msgid "Time: %fs"
+msgstr "用时: %fs"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Total File Size: "
+msgstr "总文件大小:"
+
+msgid "UI &Language"
+msgstr "界面语言(&L)"
+
+msgid "Unable to Execute"
+msgstr "无法运行"
+
+msgid "Unable to compile the program"
+msgstr "无法编译程序"
+
+msgid "Unable to compile the program, %d"
+msgstr "无法编译程序，%d"
+
+msgid "Unable to create the contest."
+msgstr "无法建立竞赛。"
+
+msgid "Unable to open the contest."
+msgstr "无法打开竞赛。"
+
+msgid "Unable to save the data configuration file."
+msgstr "无法保存数据配置文件。"
+
+msgid "Unable to start service."
+msgstr "无法启动服务。"
+
+msgid "Unknown Error %d"
+msgstr "未知错误 %d"
+
+msgid "Use custom checker"
+msgstr "使用自定义校验器"
+
+msgid "Use the computer names as the names of clients"
+msgstr "使用计算机名作为选手名称(&U)"
+
+msgid "Waiting for Gathering"
+msgstr "等待收取"
+
+msgid "Waiting for Judging"
+msgstr "等待评测"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Working Directory"
+msgstr "工作目录"
+
+msgid "Wrong Answer"
+msgstr "错误的答案"
+
+msgid "[ Error ] Error while gathering files from %s. "
+msgstr "[错误]收取 %s 的程序时发生了错误。"
+
+msgid "[Message] Gathered %0:d files from %1:s (%2:d bytes)."
+msgstr "[消息]已从 %1:s 收取了 %0:d 个文件 (%2:d 字节)。"
+
+msgid "sec."
+msgstr "秒"

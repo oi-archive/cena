@@ -1,0 +1,1613 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2006-06-11 15:17\n"
+"PO-Revision-Date: 2006-06-11 15:17\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+
+#. AboutForm..Caption
+#: AboutFormU.dfm:5
+msgid "About"
+msgstr ""
+
+#. AboutForm..Font.Name
+#: AboutFormU.dfm:12
+#. AboutForm..Label1..Font.Name
+#: AboutFormU.dfm:164
+#. JudgeForm..Font.Name
+#: JudgeFormU.dfm:16
+#. JudgeForm..redt1..Font.Name
+#: JudgeFormU.dfm:413
+#. MainForm..Font.Name
+#: MainFormU.dfm:12
+#. MainForm..pgc1..ts1..det..pnl2..lbl7..Font.Name
+#: MainFormU.dfm:72
+#. MainForm..pgc1..ts1..det..pnl2..lbl8..Font.Name
+#: MainFormU.dfm:86
+#. MainForm..pgc1..ts1..det..pnl2..lbl11..Font.Name
+#: MainFormU.dfm:108
+#. MainForm..pgc1..ts1..det..pnl2..lbl13..Font.Name
+#: MainFormU.dfm:121
+#. MainForm..pgc1..ts1..det..pnl2..lbl10..Font.Name
+#: MainFormU.dfm:135
+#. MainForm..pgc1..ts1..det..pnl2..lbl9..Font.Name
+#: MainFormU.dfm:149
+#. MainForm..pgc1..ts1..det..pnl1..lbl1..Font.Name
+#: MainFormU.dfm:243
+#. MainForm..pgc1..ts1..det..pnl1..lbl3..Font.Name
+#: MainFormU.dfm:257
+#. MainForm..pgc1..ts1..det..pnl1..lbl12..Font.Name
+#: MainFormU.dfm:270
+#. MainForm..pgc1..ts1..det..pnl1..lbl4..Font.Name
+#: MainFormU.dfm:284
+#. MainForm..pgc1..ts1..det..pnl1..lbl5..Font.Name
+#: MainFormU.dfm:299
+#. MainForm..pgc1..ts1..det..pnl1..lbl6..Font.Name
+#: MainFormU.dfm:313
+#. MainForm..pgc1..ts1..det..pnl1..Label1..Font.Name
+#: MainFormU.dfm:327
+#. MainForm..pgc1..ts1..det..pnl1..lbl2..Font.Name
+#: MainFormU.dfm:341
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label2..Font.Name
+#: MainFormU.dfm:444
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label3..Font.Name
+#: MainFormU.dfm:458
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label5..Font.Name
+#: MainFormU.dfm:471
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label6..Font.Name
+#: MainFormU.dfm:485
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label7..Font.Name
+#: MainFormU.dfm:500
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label8..Font.Name
+#: MainFormU.dfm:514
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label9..Font.Name
+#: MainFormU.dfm:528
+#. MainForm..stat1..Font.Name
+#: MainFormU.dfm:863
+#. OptionForm..Font.Name
+#: OptionFormU.dfm:12
+#. PrintForm..Font.Name
+#: PrintFormU.dfm:12
+#. PrintSetForm..Font.Name
+#: PrintSetU.dfm:12
+#. ResultForm..Font.Name
+#: ResultFormU.dfm:10
+msgid "Tahoma"
+msgstr ""
+
+#. AboutForm..Label2..Caption
+#: AboutFormU.dfm:152
+msgid "The Judging System for Computer Programming "
+"Contests."
+msgstr ""
+
+#. AboutForm..btn1..Caption
+#: AboutFormU.dfm:181
+#. NewForm..Button1..Caption
+#: NewFormU.dfm:27
+#. OptionForm..Button2..Caption
+#: OptionFormU.dfm:35
+#. PrintSetForm..Button1..Caption
+#: PrintSetU.dfm:195
+#. PropForm..Button1..Caption
+#: PropFormU.dfm:27
+msgid "OK"
+msgstr ""
+
+#. CIForm..Caption
+#: CIFormU.dfm:5
+msgid "Distribute Clients"
+msgstr ""
+
+#. CIForm..Font.Name
+#: CIFormU.dfm:12
+#. DropDownForm..Font.Name
+#: DropDownFormU.dfm:12
+#. ManagerForm..Font.Name
+#: ManagerFormU.dfm:12
+#. MessageForm..Font.Name
+#: MessageFormU.dfm:13
+#. NewForm..Font.Name
+#: NewFormU.dfm:12
+#. NewForm..pgc1..ts1..Label1..Font.Name
+#: NewFormU.dfm:63
+#. NewForm..pgc1..ts1..Label2..Font.Name
+#: NewFormU.dfm:77
+#. PropForm..Font.Name
+#: PropFormU.dfm:13
+msgid "MS Shell Dlg 2"
+msgstr ""
+
+#. CIForm..Label1..Caption
+#: CIFormU.dfm:25
+msgid "&Listening Port:"
+msgstr ""
+
+#. CIForm..Button1..Caption
+#: CIFormU.dfm:40
+#: CIFormU.pas:64
+msgid "&Start Service"
+msgstr ""
+
+#. ExportForm..dlgSave1..DefaultExt
+#: ExportFormUnit.dfm:92
+#. PrintForm..SaveDlg..DefaultExt
+#: PrintFormU.dfm:179
+msgid "csv"
+msgstr ""
+
+#. JudgeForm..Caption
+#: JudgeFormU.dfm:9
+msgid "Judge"
+msgstr ""
+
+#. JudgeForm..lbl1..Caption
+#: JudgeFormU.dfm:30
+msgid "This Testcase"
+msgstr ""
+
+#. JudgeForm..lbl2..Caption
+#: JudgeFormU.dfm:37
+msgid "This Problem"
+msgstr ""
+
+#. JudgeForm..lbl3..Caption
+#: JudgeFormU.dfm:44
+msgid "This Contestant"
+msgstr ""
+
+#. JudgeForm..lbl4..Caption
+#: JudgeFormU.dfm:51
+msgid "aaaa"
+msgstr ""
+
+#. JudgeForm..lbl6..Caption
+#: JudgeFormU.dfm:64
+msgid "dddd"
+msgstr ""
+
+#. JudgeForm..Label1..Caption
+#: JudgeFormU.dfm:71
+#. OptionForm..PageControl1..TabSheet2..grp1..Caption
+#: OptionFormU.dfm:287
+msgid "Detail"
+msgstr ""
+
+#. JudgeForm..btn1..Caption
+#: JudgeFormU.dfm:365
+#: JudgeFormU.pas:55
+msgid "&Pause"
+msgstr ""
+
+#. JudgeForm..btn2..Caption
+#: JudgeFormU.dfm:374
+msgid "&Cancel"
+msgstr ""
+
+#. MainForm..pgc1..ts1..Caption
+#: MainFormU.dfm:43
+#. NewForm..pgc1..ts2..lv1......Caption
+#: NewFormU.dfm:134
+#: MainFormU.pas:2527
+#: MainFormU.pas:2751
+msgid "Problems"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..Caption
+#: MainFormU.dfm:50
+msgid "&Detail"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl2..lbl7..Caption
+#: MainFormU.dfm:67
+#. MainForm..pgc1..ts1..det..pnl1..lbl3..Caption
+#: MainFormU.dfm:252
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label3..Caption
+#: MainFormU.dfm:453
+msgid "Input Files"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl2..lbl8..Caption
+#: MainFormU.dfm:81
+#. MainForm..pgc1..ts1..det..pnl1..lbl4..Caption
+#: MainFormU.dfm:279
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label6..Caption
+#: MainFormU.dfm:480
+msgid "Output File"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl2..lbl14..Caption
+#: MainFormU.dfm:96
+#. OptionForm..PageControl1..TabSheet1..Panel3..Label17..Caption
+#: OptionFormU.dfm:208
+msgid "sec."
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl2..lbl11..Caption
+#: MainFormU.dfm:103
+msgid "Memory Limit"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl2..lbl13..Caption
+#: MainFormU.dfm:117
+#. MainForm..pgc1..ts1..det..pnl1..lbl12..Caption
+#: MainFormU.dfm:266
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label5..Caption
+#: MainFormU.dfm:467
+msgid "(One per line)"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl2..lbl10..Caption
+#: MainFormU.dfm:130
+msgid "Time Limit"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl2..lbl9..Caption
+#: MainFormU.dfm:144
+msgid "Full Score"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl2..lbl15..Caption
+#: MainFormU.dfm:159
+#. OptionForm..PageControl1..TabSheet1..Panel2..Label10..Caption
+#: OptionFormU.dfm:145
+#. OptionForm..PageControl1..TabSheet1..Panel3..Label16..Caption
+#: OptionFormU.dfm:201
+msgid "KB"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl2..Label4..Caption
+#: MainFormU.dfm:166
+msgid "(Memory Limit only applies to 32-bit Windows "
+"programs.)"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl1..lbl1..Caption
+#: MainFormU.dfm:238
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label2..Caption
+#: MainFormU.dfm:439
+msgid "Problem Title"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl1..lbl5..Caption
+#: MainFormU.dfm:293
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label7..Caption
+#: MainFormU.dfm:494
+msgid "Custom Checker"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl1..lbl6..Caption
+#: MainFormU.dfm:308
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label8..Caption
+#: MainFormU.dfm:509
+msgid "Additional Files"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl1..Label1..Caption
+#: MainFormU.dfm:322
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..Label9..Caption
+#: MainFormU.dfm:523
+msgid "Compare Method"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl1..lbl2..Caption
+#: MainFormU.dfm:336
+msgid "Source File"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl1..p_cm....Items.Strings
+#: MainFormU.dfm:412
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..ComboBox1....Items.Strings
+#: MainFormU.dfm:599
+msgid "Check byte by byte"
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl1..p_cm....Items.Strings
+#: MainFormU.dfm:413
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..ComboBox1....Items.Strings
+#: MainFormU.dfm:600
+msgid "Ignore spaces and the empty lines at the end of "
+"file."
+msgstr ""
+
+#. MainForm..pgc1..ts1..det..pnl1..p_cm....Items.Strings
+#: MainFormU.dfm:414
+#. MainForm..pgc1..ts1..det..pnl1..Panel2..ComboBox1....Items.Strings
+#: MainFormU.dfm:601
+msgid "Use custom checker"
+msgstr ""
+
+#. MainForm..pgc1..ts1..grp1..Caption
+#: MainFormU.dfm:611
+msgid "&Summary"
+msgstr ""
+
+#. MainForm..pgc1..ts2..Caption
+#: MainFormU.dfm:667
+#: MainFormU.pas:2752
+msgid "Contestants"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:677
+#. MainForm..pgc1..ts3..Panel1..PeopleView......Caption
+#: MainFormU.dfm:811
+#. PrintForm..gb3..lv1......Caption
+#: PrintFormU.dfm:55
+#. PropForm..PageControl1..tsRemotePage..GroupBox1..Label4..Caption
+#: PropFormU.dfm:144
+msgid "Name"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:681
+#. MainForm..pgc1..ts3..Panel1..PeopleView......Caption
+#: MainFormU.dfm:814
+#. PrintForm..gb3..lv1......Caption
+#: PrintFormU.dfm:59
+msgid "Rank"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:685
+#. MainForm..pgc1..ts3..Panel1..PeopleView......Caption
+#: MainFormU.dfm:817
+#. PrintForm..gb3..lv1......Caption
+#: PrintFormU.dfm:63
+#: ResultFormU.pas:241
+msgid "Score"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:689
+#. MainForm..pgc1..ts3..Panel1..PeopleView......Caption
+#: MainFormU.dfm:820
+#. PrintForm..gb3..lv1......Caption
+#: PrintFormU.dfm:67
+#: ResultFormU.pas:242
+msgid "Time"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:693
+msgid "Status"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:697
+msgid "Location"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:701
+msgid "Gathering Time"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:705
+msgid "Judging Time"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:709
+#. PropForm..PageControl1..tsRemotePage..GroupBox1..Label3..Caption
+#: PropFormU.dfm:137
+msgid "IP Address"
+msgstr ""
+
+#. MainForm..pgc1..ts2..lv1......Caption
+#: MainFormU.dfm:712
+#. PropForm..PageControl1..tsRemotePage..GroupBox1..Label5..Caption
+#: PropFormU.dfm:151
+msgid "Working Directory"
+msgstr ""
+
+#. MainForm..pgc1..ts2..pnl3..CheckBox1..Caption
+#: MainFormU.dfm:757
+msgid "&Auto Judge"
+msgstr ""
+
+#. MainForm..pgc1..ts3..Caption
+#: MainFormU.dfm:765
+msgid "Count && Analyze"
+msgstr ""
+
+#. MainForm..pgc1..ts3..Button2..Caption
+#: MainFormU.dfm:774
+msgid "Count Selected Contestants"
+msgstr ""
+
+#. MainForm..pgc1..ts3..Button3..Caption
+#: MainFormU.dfm:783
+msgid "Rank by Selected Problems"
+msgstr ""
+
+#. MainForm..mm1..F1..Caption
+#: MainFormU.dfm:880
+msgid "&File"
+msgstr ""
+
+#. MainForm..mm1..F1..N5..Caption
+#: MainFormU.dfm:882
+msgid "&New or Open..."
+msgstr ""
+
+#. MainForm..mm1..F1..C1..Caption
+#: MainFormU.dfm:887
+msgid "&Close Contest"
+msgstr ""
+
+#. MainForm..mm1..F1..N1..Caption
+#: MainFormU.dfm:893
+#. MainForm..mm1..F1..N6..Caption
+#: MainFormU.dfm:910
+#. MainForm..mm1..C2..N27..Caption
+#: MainFormU.dfm:932
+#. MainForm..mm1..C2..N12..Caption
+#: MainFormU.dfm:960
+#. MainForm..mm1..T1..N16..Caption
+#: MainFormU.dfm:990
+#. MainForm..mm1..T1..N14..N21..Caption
+#: MainFormU.dfm:1003
+#. MainForm..mm1..H1..N28..Caption
+#: MainFormU.dfm:1029
+#. MainForm..mm1..H1..N22..Caption
+#: MainFormU.dfm:1036
+#. MainForm..pm2..N7..Caption
+#: MainFormU.dfm:1580
+#. MainForm..pm2..N9..Caption
+#: MainFormU.dfm:1587
+#. MainForm..pm2..N8..Caption
+#: MainFormU.dfm:1598
+#. MainForm..pm1..N30..Caption
+#: MainFormU.dfm:1640
+#. MainForm..pm1..N32..Caption
+#: MainFormU.dfm:1652
+#. MainForm..PeopleViewPopupMenu..N13..Caption
+#: MainFormU.dfm:1678
+#. MainForm..PeopleViewPopupMenu..N15..Caption
+#: MainFormU.dfm:1689
+#. MainForm..PeopleViewPopupMenu..N17..Caption
+#: MainFormU.dfm:1700
+#. ResultForm..PopupMenu1..N1..Caption
+#: ResultFormU.dfm:49
+msgid "-"
+msgstr ""
+
+#. MainForm..mm1..F1..F2..Caption
+#: MainFormU.dfm:897
+msgid "&Browse Folder"
+msgstr ""
+
+#. MainForm..mm1..F1..P1..Caption
+#: MainFormU.dfm:903
+#. MainForm..PeopleViewPopupMenu..P2..Caption
+#: MainFormU.dfm:1703
+#. MainForm..ProblemPopupMenu..P3..Caption
+#: MainFormU.dfm:1711
+#. ResultForm..PopupMenu1..E1..Caption
+#: ResultFormU.dfm:45
+msgid "&Print or Export..."
+msgstr ""
+
+#. MainForm..mm1..F1..X1..Caption
+#: MainFormU.dfm:914
+msgid "E&xit"
+msgstr ""
+
+#. MainForm..mm1..C2..Caption
+#: MainFormU.dfm:920
+msgid "&Control"
+msgstr ""
+
+#. MainForm..mm1..C2..N11..Caption
+#: MainFormU.dfm:922
+msgid "&Gather Programs from Selected Clients"
+msgstr ""
+
+#. MainForm..mm1..C2..N26..Caption
+#: MainFormU.dfm:927
+msgid "Gather &Programs from All Clients"
+msgstr ""
+
+#. MainForm..mm1..C2..S1..Caption
+#: MainFormU.dfm:935
+msgid "Judge All Programs of &Selected Contestants"
+msgstr ""
+
+#. MainForm..mm1..C2..N24..Caption
+#: MainFormU.dfm:940
+msgid "Judge All Programs of &All Contestants"
+msgstr ""
+
+#. MainForm..mm1..C2..N23..Caption
+#: MainFormU.dfm:945
+msgid "Judge &Modified Programs of Selected "
+"Contestants"
+msgstr ""
+
+#. MainForm..mm1..C2..N25..Caption
+#: MainFormU.dfm:950
+msgid "Judge M&odified Programs of All Contestants"
+msgstr ""
+
+#. MainForm..mm1..C2..V2..Caption
+#: MainFormU.dfm:955
+msgid "&View Judge Result"
+msgstr ""
+
+#. MainForm..mm1..C2..D1..Caption
+#: MainFormU.dfm:963
+msgid "&Delete All Programs of Selected Contestants"
+msgstr ""
+
+#. MainForm..mm1..V1..Caption
+#: MainFormU.dfm:969
+msgid "&View"
+msgstr ""
+
+#. MainForm..mm1..V1..B1..Caption
+#: MainFormU.dfm:971
+msgid "&Status Bar"
+msgstr ""
+
+#. MainForm..mm1..V1..N18..Caption
+#: MainFormU.dfm:977
+msgid "&Clients"
+msgstr ""
+
+#. MainForm..mm1..T1..Caption
+#: MainFormU.dfm:984
+msgid "&Tools"
+msgstr ""
+
+#. MainForm..mm1..T1..I1..Caption
+#: MainFormU.dfm:986
+msgid "&Distribute Clients..."
+msgstr ""
+
+#. MainForm..mm1..T1..O2..Caption
+#: MainFormU.dfm:993
+msgid "&Options..."
+msgstr ""
+
+#. MainForm..mm1..T1..N14..Caption
+#: MainFormU.dfm:997
+msgid "UI &Language"
+msgstr ""
+
+#. MainForm..mm1..T1..N14..z1..Caption
+#: MainFormU.dfm:999
+msgid "&Default"
+msgstr ""
+
+#. MainForm..mm1..T1..N14..N19..Caption
+#: MainFormU.dfm:1007
+msgid "Simp. Chinese"
+msgstr ""
+
+#. MainForm..mm1..T1..N14..N31..Caption
+#: MainFormU.dfm:1011
+msgid "Trad. Chinese"
+msgstr ""
+
+#. MainForm..mm1..T1..N14..N20..Caption
+#: MainFormU.dfm:1016
+msgid "English"
+msgstr ""
+
+#. MainForm..mm1..H1..Caption
+#: MainFormU.dfm:1022
+msgid "&Help"
+msgstr ""
+
+#. MainForm..mm1..H1..C6..Caption
+#: MainFormU.dfm:1024
+msgid "&Cena Manual"
+msgstr ""
+
+#. MainForm..mm1..H1..N29..Caption
+#: MainFormU.dfm:1032
+msgid "&Homepage"
+msgstr ""
+
+#. MainForm..mm1..H1..A2..Caption
+#: MainFormU.dfm:1039
+msgid "&About..."
+msgstr ""
+
+#. MainForm..pm2..G1..Caption
+#: MainFormU.dfm:1567
+#: MainFormU.pas:2246
+msgid "&Gather"
+msgstr ""
+
+#. MainForm..pm2..N4..Caption
+#: MainFormU.dfm:1571
+#: MainFormU.pas:2247
+msgid "&Judge"
+msgstr ""
+
+#. MainForm..pm2..N3..Caption
+#: MainFormU.dfm:1575
+msgid "&View Judge Result..."
+msgstr ""
+
+#. MainForm..pm2..N10..Caption
+#: MainFormU.dfm:1583
+msgid "R&efresh"
+msgstr ""
+
+#. MainForm..pm2..D2..Caption
+#: MainFormU.dfm:1590
+#. MainForm..pm1..MenuItem2..Caption
+#: MainFormU.dfm:1655
+msgid "&Delete"
+msgstr ""
+
+#. MainForm..pm2..M1..Caption
+#: MainFormU.dfm:1594
+msgid "Rena&me"
+msgstr ""
+
+#. MainForm..pm2..R1..Caption
+#: MainFormU.dfm:1601
+msgid "P&roperties"
+msgstr ""
+
+#. MainForm..pm1..MenuItem1..Caption
+#: MainFormU.dfm:1630
+msgid "Add &Problem"
+msgstr ""
+
+#. MainForm..pm1..N2..Caption
+#: MainFormU.dfm:1643
+msgid "Add &Testcase"
+msgstr ""
+
+#. MainForm..pm1..O4..Caption
+#: MainFormU.dfm:1648
+msgid "Add &Other Testcases"
+msgstr ""
+
+#. MainForm..PeopleViewPopupMenu..A1..Caption
+#: MainFormU.dfm:1669
+msgid "&Select All"
+msgstr ""
+
+#. MainForm..PeopleViewPopupMenu..V3..Caption
+#: MainFormU.dfm:1673
+#. PrintForm..PopupMenu1..B1..Caption
+#: PrintFormU.dfm:174
+msgid "&Invert Selection"
+msgstr ""
+
+#. MainForm..PeopleViewPopupMenu..C3..Caption
+#: MainFormU.dfm:1681
+msgid "&Mark Selected"
+msgstr ""
+
+#. MainForm..PeopleViewPopupMenu..C4..Caption
+#: MainFormU.dfm:1685
+msgid "&Clear Selected"
+msgstr ""
+
+#. MainForm..PeopleViewPopupMenu..V4..Caption
+#: MainFormU.dfm:1692
+msgid "M&ark All"
+msgstr ""
+
+#. MainForm..PeopleViewPopupMenu..B2..Caption
+#: MainFormU.dfm:1696
+msgid "C&lear All"
+msgstr ""
+
+#. ManagerForm..GroupBox1..Edit1..Text
+#: ManagerFormU.dfm:71
+#. ManagerForm..GroupBox1..Edit2..Text
+#: ManagerFormU.dfm:80
+msgid "Edit1"
+msgstr ""
+
+#. ManagerForm..Button2..Caption
+#: ManagerFormU.dfm:113
+msgid "Button2"
+msgstr ""
+
+#. MessageForm..Caption
+#: MessageFormU.dfm:8
+msgid "Messages"
+msgstr ""
+
+#. NewForm..Caption
+#: NewFormU.dfm:7
+msgid "New or Open"
+msgstr ""
+
+#. NewForm..Button2..Caption
+#: NewFormU.dfm:38
+#. OptionForm..Button1..Caption
+#: OptionFormU.dfm:25
+#. PrintForm..Button2..Caption
+#: PrintFormU.dfm:37
+#. PropForm..Button2..Caption
+#: PropFormU.dfm:38
+msgid "Cancel"
+msgstr ""
+
+#. NewForm..pgc1..ts1..Caption
+#: NewFormU.dfm:51
+msgid "New"
+msgstr ""
+
+#. NewForm..pgc1..ts1..Label1..Caption
+#: NewFormU.dfm:58
+msgid "&Contest Title"
+msgstr ""
+
+#. NewForm..pgc1..ts1..Label2..Caption
+#: NewFormU.dfm:72
+msgid "&Save in"
+msgstr ""
+
+#. NewForm..pgc1..ts1..SpeedButton1..Caption
+#: NewFormU.dfm:86
+msgid "..."
+msgstr ""
+
+#. NewForm..pgc1..ts2..Caption
+#: NewFormU.dfm:116
+msgid "Recent"
+msgstr ""
+
+#. NewForm..pgc1..ts2..lv1......Caption
+#: NewFormU.dfm:126
+#. OptionForm..PageControl1..TabSheet2..lv1......Caption
+#: OptionFormU.dfm:368
+msgid "Title"
+msgstr ""
+
+#. NewForm..pgc1..ts2..lv1......Caption
+#: NewFormU.dfm:130
+msgid "Folder"
+msgstr ""
+
+#. NewForm..pgc1..ts3..Caption
+#: NewFormU.dfm:147
+msgid "Specified"
+msgstr ""
+
+#. NewForm..pgc1..ts3..ShellTreeView1..Root
+#: NewFormU.dfm:156
+msgid "rfDesktop"
+msgstr ""
+
+#. NewForm..PopupMenu1..Deletefromlist1..Caption
+#: NewFormU.dfm:181
+msgid "&Delete from list"
+msgstr ""
+
+#. OptionForm..Caption
+#: OptionFormU.dfm:5
+msgid "Options"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Caption
+#: OptionFormU.dfm:48
+msgid "General"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Label6..Caption
+#: OptionFormU.dfm:62
+msgid "Gather files"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Label14..Caption
+#: OptionFormU.dfm:83
+msgid "Data Configuration"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Panel1..Label7..Caption
+#: OptionFormU.dfm:99
+msgid "File Name Limitions"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Panel1..CheckBox2..Caption
+#: OptionFormU.dfm:106
+msgid "Only gather files whose &name is in the current "
+"contest"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Panel1..CheckBox3..Caption
+#: OptionFormU.dfm:114
+msgid "Only gather files whose &extension is in the compiler "
+"list"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Panel2..Label8..Caption
+#: OptionFormU.dfm:130
+msgid "File Size Limitions"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Panel2..Label9..Caption
+#: OptionFormU.dfm:137
+msgid "Size:"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Panel2..CheckBox1..Caption
+#: OptionFormU.dfm:160
+msgid "&Limit file sizes (for single file)"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Panel3..Label11..Caption
+#: OptionFormU.dfm:177
+msgid "Default Full &Score"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Panel3..Label12..Caption
+#: OptionFormU.dfm:185
+msgid "Default &Time Limit"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet1..Panel3..Label13..Caption
+#: OptionFormU.dfm:193
+msgid "Default &Memory Limit"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..Caption
+#: OptionFormU.dfm:237
+msgid "Programming Languages"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..Label1..Caption
+#: OptionFormU.dfm:244
+msgid "&Judge programs using these programming "
+"languages:"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..Button3..Caption
+#: OptionFormU.dfm:251
+msgid "&Add"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..Button4..Caption
+#: OptionFormU.dfm:260
+msgid "&Remove"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..Button8..Caption
+#: OptionFormU.dfm:269
+msgid "Move &Up"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..Button9..Caption
+#: OptionFormU.dfm:278
+msgid "Move &Down"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..grp1..lbl1..Caption
+#: OptionFormU.dfm:295
+msgid "&Compilaton Command"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..grp1..lbl3..Caption
+#: OptionFormU.dfm:303
+msgid "&Title"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..grp1..lbl4..Caption
+#: OptionFormU.dfm:311
+msgid "&Extension"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..grp1..lbl5..Caption
+#: OptionFormU.dfm:319
+msgid "%s = Problem's file name (excluding "
+"extension)"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..grp1..Label5..Caption
+#: OptionFormU.dfm:326
+msgid "E&xecution Command"
+msgstr ""
+
+#. OptionForm..PageControl1..TabSheet2..lv1......Caption
+#: OptionFormU.dfm:372
+msgid "Extension"
+msgstr ""
+
+#. PrintForm..Caption
+#: PrintFormU.dfm:5
+msgid "Print or Export"
+msgstr ""
+
+#. PrintForm..Button1..Caption
+#: PrintFormU.dfm:26
+msgid "&Print"
+msgstr ""
+
+#. PrintForm..gb3..Caption
+#: PrintFormU.dfm:46
+msgid "Content"
+msgstr ""
+
+#. PrintForm..gb3..Panel1..RadioButton1..Caption
+#: PrintFormU.dfm:93
+msgid "&Rank List"
+msgstr ""
+
+#. PrintForm..gb3..Panel1..RadioButton2..Caption
+#: PrintFormU.dfm:104
+msgid "R&eport"
+msgstr ""
+
+#. PrintForm..Button6..Caption
+#: PrintFormU.dfm:153
+msgid "&Export"
+msgstr ""
+
+#. PrintForm..Button3..Caption
+#: PrintFormU.dfm:162
+msgid "Page &Settings..."
+msgstr ""
+
+#. PrintForm..PopupMenu1..N1..Caption
+#: PrintFormU.dfm:170
+msgid "Select &All"
+msgstr ""
+
+#. PrintForm..SaveDlg..Filter
+#: PrintFormU.dfm:180
+msgid "Table (*.csv)|*.csv"
+msgstr ""
+
+#. PrintForm..SaveDlg..Title
+#: PrintFormU.dfm:181
+msgid "Export"
+msgstr ""
+
+#. PrintSetForm..Caption
+#: PrintSetU.dfm:5
+msgid "Page Settings"
+msgstr ""
+
+#. PrintSetForm..Label5..Caption
+#: PrintSetU.dfm:31
+msgid "&Buttom:"
+msgstr ""
+
+#. PrintSetForm..Label4..Caption
+#: PrintSetU.dfm:38
+msgid "&Top:"
+msgstr ""
+
+#. PrintSetForm..Label3..Caption
+#: PrintSetU.dfm:45
+msgid "&Right:"
+msgstr ""
+
+#. PrintSetForm..Label2..Caption
+#: PrintSetU.dfm:52
+msgid "&Left:"
+msgstr ""
+
+#. PrintSetForm..Label1..Caption
+#: PrintSetU.dfm:59
+msgid "Margin"
+msgstr ""
+
+#. PrintSetForm..Label6..Caption
+#: PrintSetU.dfm:87
+msgid "Footer"
+msgstr ""
+
+#. PrintSetForm..Label7..Caption
+#: PrintSetU.dfm:94
+msgid "Other"
+msgstr ""
+
+#. PrintSetForm..RadioButton5..Caption
+#: PrintSetU.dfm:141
+msgid "&Custom"
+msgstr ""
+
+#. PrintSetForm..RadioButton4..Caption
+#: PrintSetU.dfm:150
+msgid "C&ontest Title"
+msgstr ""
+
+#. PrintSetForm..RadioButton3..Caption
+#: PrintSetU.dfm:159
+msgid "Current &Date and Time"
+msgstr ""
+
+#. PrintSetForm..Button5..Caption
+#: PrintSetU.dfm:177
+msgid "Print &Font..."
+msgstr ""
+
+#. PrintSetForm..Button3..Caption
+#: PrintSetU.dfm:186
+msgid "&Printer Setup..."
+msgstr ""
+
+#. PrintSetForm..FontDlg..Font.Name
+#: PrintSetU.dfm:204
+msgid "MS Sans Serif"
+msgstr ""
+
+#. PropForm..Caption
+#: PropFormU.dfm:6
+msgid "Properties"
+msgstr ""
+
+#. PropForm..PageControl1..tsLocalPage..Caption
+#: PropFormU.dfm:50
+msgid "Local"
+msgstr ""
+
+#. PropForm..PageControl1..tsLocalPage..Label8..Caption
+#: PropFormU.dfm:56
+msgid "Label8"
+msgstr ""
+
+#. PropForm..PageControl1..tsLocalPage..lblTotalFileSize..Caption
+#: PropFormU.dfm:70
+msgid "Total File Size: "
+msgstr ""
+
+#. PropForm..PageControl1..tsLocalPage..lblHighestScore..Caption
+#: PropFormU.dfm:78
+msgid "Highest Score: "
+msgstr ""
+
+#. PropForm..PageControl1..tsLocalPage..lblLowestScore..Caption
+#: PropFormU.dfm:85
+msgid "Lowest Score: "
+msgstr ""
+
+#. PropForm..PageControl1..tsLocalPage..lblLowestRank..Caption
+#: PropFormU.dfm:92
+msgid "Lowest Rank: "
+msgstr ""
+
+#. PropForm..PageControl1..tsLocalPage..lblHighestRank..Caption
+#: PropFormU.dfm:99
+msgid "Highest Rank: "
+msgstr ""
+
+#. PropForm..PageControl1..tsRemotePage..Caption
+#: PropFormU.dfm:103
+msgid "Remote"
+msgstr ""
+
+#. PropForm..PageControl1..tsRemotePage..GroupBox1..Caption
+#: PropFormU.dfm:123
+msgid "Client Info"
+msgstr ""
+
+#. PropForm..PageControl1..tsRemotePage..GroupBox1..Label2..Caption
+#: PropFormU.dfm:130
+msgid "Operation System"
+msgstr ""
+
+#. PropForm..PageControl1..tsRemotePage..GroupBox1..Label6..Caption
+#: PropFormU.dfm:158
+msgid "ClientID"
+msgstr ""
+
+#. PropForm..PageControl1..tsRemotePage..GroupBox1..Button3..Caption
+#: PropFormU.dfm:210
+msgid "&Test Network Connections"
+msgstr ""
+
+#. PropForm..PageControl1..tsRemotePage..GroupBox1.._perm..Caption
+#: PropFormU.dfm:219
+msgid "&Allow changing settings or exiting from "
+"clients"
+msgstr ""
+
+#. PropForm..PageControl1..tsRemotePage..GroupBox1.._usescomputername..Caption
+#: PropFormU.dfm:227
+msgid "Use the computer names as the names of "
+"clients"
+msgstr ""
+
+#. PropForm..PageControl1..tsRemotePage..GroupBox1.._autorun..Caption
+#: PropFormU.dfm:235
+msgid "&Start automatically at bootup"
+msgstr ""
+
+#. ResultForm..Label1..Caption
+#: ResultFormU.dfm:26
+msgid "This contestant is being judged. Please "
+"wait."
+msgstr ""
+
+#. ResultForm..PopupMenu1..N2..Caption
+#: ResultFormU.dfm:53
+msgid "&Close"
+msgstr ""
+
+#: CIFormU.pas:54
+msgid "Service started."
+msgstr ""
+
+#: CIFormU.pas:55
+msgid "&Stop Service"
+msgstr ""
+
+#. MessageBoxW(handle,pwidechar(_('Unable to start the service.')+#13#10#13#10+WideFormat(_('Error %d: %s'),[getlasterror,SysErrorMessage(getlasterror)])),'',0);
+#: CIFormU.pas:58
+msgid "Unable to start service."
+msgstr ""
+
+#: CIFormU.pas:58
+#: MainFormU.pas:860
+#: MainFormU.pas:1042
+#: MainFormU.pas:1150
+#: MainFormU.pas:1924
+#: MainFormU.pas:2403
+#: MainFormU.pas:2808
+#: NewFormU.pas:90
+#: PrintFormU.pas:160
+#: PrintFormU.pas:163
+msgid "Error"
+msgstr ""
+
+#: CIFormU.pas:63
+msgid "Service stopped."
+msgstr ""
+
+#: CIFormU.pas:89
+msgid "%s downloaded successfully."
+msgstr ""
+
+#: CIFormU.pas:92
+msgid "%s downloaded unsuccessfully."
+msgstr ""
+
+#. !!!
+#: GatherThreadU.pas:255
+msgid "[Message] Gathered %0:d files from %1:s (%2:d "
+"bytes)."
+msgstr ""
+
+#. !!!
+#: GatherThreadU.pas:259
+msgid "[ Error ] Error while gathering files from %s. "
+msgstr ""
+
+#: GatherThreadU.pas:321
+#: JudgeThreadU.pas:103
+msgid "Gathering and Judging..."
+msgstr ""
+
+#: GatherThreadU.pas:323
+#: JudgeThreadU.pas:132
+msgid "Gathering..."
+msgstr ""
+
+#: GatherThreadU.pas:333
+#: JudgeThreadU.pas:105
+msgid "Judging..."
+msgstr ""
+
+#: GatherThreadU.pas:335
+#: JudgeThreadU.pas:130
+#: MainFormU.pas:2124
+msgid "Idle"
+msgstr ""
+
+#: JudgeFormU.pas:61
+msgid "&Resume"
+msgstr ""
+
+#: JudgeThreadU.pas:405
+msgid "Loading contestant's information..."
+msgstr ""
+
+#: JudgeThreadU.pas:423
+msgid "Judging %s (%s) :"
+msgstr ""
+
+#: JudgeThreadU.pas:431
+msgid "Found file"
+msgstr ""
+
+#: JudgeThreadU.pas:438
+msgid "Compiling..."
+msgstr ""
+
+#. writeln(i,' ',j,' ',k);
+#: JudgeThreadU.pas:470
+msgid "Deleting previous input files..."
+msgstr ""
+
+#: JudgeThreadU.pas:485
+msgid "Copying input files..."
+msgstr ""
+
+#: JudgeThreadU.pas:501
+msgid "Deleting previous output file..."
+msgstr ""
+
+#: JudgeThreadU.pas:511
+msgid "Running..."
+msgstr ""
+
+#: JudgeThreadU.pas:527
+msgid "Comparing output files..."
+msgstr ""
+
+#: JudgeThreadU.pas:591
+#: ResultFormU.pas:253
+msgid "Unable to Execute"
+msgstr ""
+
+#: JudgeThreadU.pas:596
+msgid "Correct ( %fs , %dKB )"
+msgstr ""
+
+#: JudgeThreadU.pas:598
+msgid "Correct ( %fs )"
+msgstr ""
+
+#: JudgeThreadU.pas:604
+#: ResultFormU.pas:265
+msgid "Wrong Answer"
+msgstr ""
+
+#: JudgeThreadU.pas:609
+#: ResultFormU.pas:255
+msgid "Time Limit Exceeded"
+msgstr ""
+
+#: JudgeThreadU.pas:614
+#: ResultFormU.pas:257
+msgid "Memory Limit Exceeded"
+msgstr ""
+
+#: JudgeThreadU.pas:619
+#: ResultFormU.pas:259
+msgid "Runtime Error %d"
+msgstr ""
+
+#: JudgeThreadU.pas:624
+#: ResultFormU.pas:261
+msgid "Crash"
+msgstr ""
+
+#: JudgeThreadU.pas:629
+#: ResultFormU.pas:269
+msgid "No Output"
+msgstr ""
+
+#: JudgeThreadU.pas:635
+msgid "Partly Correct ( %fs , %dKB , %s/%s "
+")"
+msgstr ""
+
+#: JudgeThreadU.pas:637
+msgid "Partly Correct ( %fs , %s/%s )"
+msgstr ""
+
+#: JudgeThreadU.pas:643
+#: ResultFormU.pas:277
+msgid "Custom Checker Error"
+msgstr ""
+
+#: JudgeThreadU.pas:648
+#: ResultFormU.pas:275
+msgid "Missing Standard Output"
+msgstr ""
+
+#: JudgeThreadU.pas:653
+#: ResultFormU.pas:271
+msgid "Illegality"
+msgstr ""
+
+#: JudgeThreadU.pas:658
+msgid "Unknown Error %d"
+msgstr ""
+
+#: JudgeThreadU.pas:662
+msgid "Testcase %d"
+msgstr ""
+
+#: JudgeThreadU.pas:673
+msgid "Unable to compile the program, %d"
+msgstr ""
+
+#: JudgeThreadU.pas:681
+msgid "Finish judging this problem. Score %s."
+msgstr ""
+
+#: JudgeThreadU.pas:687
+msgid "The program hasn't been modified. No need to "
+"judge."
+msgstr ""
+
+#: JudgeThreadU.pas:692
+#: ResultFormU.pas:228
+msgid "Program not found."
+msgstr ""
+
+#: JudgeThreadU.pas:721
+msgid "Compileting Judge..."
+msgstr ""
+
+#: JudgeThreadU.pas:729
+msgid "A fetal error has occurred. Please restart "
+"%s."
+msgstr ""
+
+#: JudgeThreadU.pas:924
+msgid "Judging %s's programs..."
+msgstr ""
+
+#: JudgeThreadU.pas:925
+msgid "%d contestants left."
+msgstr ""
+
+#: MainFormU.pas:637
+msgid "Problem %d"
+msgstr ""
+
+#: MainFormU.pas:860
+msgid "Unable to save the data configuration "
+"file."
+msgstr ""
+
+#: MainFormU.pas:860
+#: MainFormU.pas:1042
+#: NewFormU.pas:90
+msgid "Error %d: %s"
+msgstr ""
+
+#: MainFormU.pas:900
+msgid "Are you sure to delete the selected "
+"items?"
+msgstr ""
+
+#: MainFormU.pas:900
+#: MainFormU.pas:1591
+#: MainFormU.pas:1597
+#: NewFormU.pas:103
+#: NewFormU.pas:117
+msgid "Confirm"
+msgstr ""
+
+#: MainFormU.pas:975
+msgid "%s - Judge Result"
+msgstr ""
+
+#: MainFormU.pas:1042
+msgid "Unable to open the contest."
+msgstr ""
+
+#: MainFormU.pas:1150
+msgid "Please stop judging first."
+msgstr ""
+
+#: MainFormU.pas:1591
+msgid "Are you sure to delete %s's programs and judge "
+"result?"
+msgstr ""
+
+#: MainFormU.pas:1595
+msgid "Are you sure to delete the programs and judge result of selected %d "
+"contestant?"
+msgid_plural "Are you sure to delete the programs and judge result of selected %d "
+"contestants?"
+msgstr[0] ""
+
+#: MainFormU.pas:1924
+msgid "No contestants selected."
+msgstr ""
+
+#: MainFormU.pas:1935
+#: PropFormU.pas:138
+#: PropFormU.pas:147
+msgid "%s (%d contestants)"
+msgstr ""
+
+#: MainFormU.pas:1938
+msgid "%s --- Full Score: %f -- Average Score: %f -- Highest Score: "
+"%f"
+msgstr ""
+
+#: MainFormU.pas:1943
+msgid "%d --- Full Score: %f -- Average Score: %f -- Highest Score: "
+"%f"
+msgstr ""
+
+#: MainFormU.pas:2089
+msgid "Loading..."
+msgstr ""
+
+#: MainFormU.pas:2156
+msgid "Not Gathered"
+msgstr ""
+
+#: MainFormU.pas:2157
+msgid "Waiting for Gathering"
+msgstr ""
+
+#: MainFormU.pas:2158
+msgid "Gathering"
+msgstr ""
+
+#: MainFormU.pas:2159
+msgid "Not Judged"
+msgstr ""
+
+#: MainFormU.pas:2160
+msgid "Waiting for Judging"
+msgstr ""
+
+#: MainFormU.pas:2161
+msgid "Judging"
+msgstr ""
+
+#: MainFormU.pas:2162
+msgid "Judged"
+msgstr ""
+
+#: MainFormU.pas:2241
+msgid "&Gather All"
+msgstr ""
+
+#: MainFormU.pas:2242
+msgid "&Judge All"
+msgstr ""
+
+#: MainFormU.pas:2403
+msgid "Please add the first testcase manually."
+msgstr ""
+
+#: MainFormU.pas:2749
+msgid "(No Contest Open)"
+msgstr ""
+
+#: MainFormU.pas:2808
+msgid "Test data is not configured."
+msgstr ""
+
+#: MainFormU.pas:3020
+msgid "A newer version of Cena is available. Would you like to download it "
+"now?"
+msgstr ""
+
+#: NewFormU.pas:85
+msgid "There are some files in the folder, "
+"continue?"
+msgstr ""
+
+#: NewFormU.pas:85
+msgid "Warning"
+msgstr ""
+
+#. 创建失败，给予提示 !!!
+#: NewFormU.pas:90
+msgid "Unable to create the contest."
+msgstr ""
+
+#: NewFormU.pas:103
+#: NewFormU.pas:117
+msgid "Create a new contest here?"
+msgstr ""
+
+#. Show text
+#: NewFormU.pas:152
+msgid "Contest on %s"
+msgstr ""
+
+#: NewFormU.pas:173
+msgid "(Unconfigurated)"
+msgstr ""
+
+#: NewFormU.pas:177
+#: NewFormU.pas:178
+msgid "(Unable to Open)"
+msgstr ""
+
+#: OptionFormU.pas:126
+#: OptionFormU.pas:132
+msgid "New Compiler"
+msgstr ""
+
+#: PrintFormU.pas:128
+#: PrintFormU.pas:131
+msgid "&Crowd Style"
+msgstr ""
+
+#: PrintFormU.pas:129
+msgid "&Detailed Style"
+msgstr ""
+
+#: PrintFormU.pas:132
+msgid "&Simple Style"
+msgstr ""
+
+#: PrintFormU.pas:160
+msgid "No Printers Installed."
+msgstr ""
+
+#: PrintFormU.pas:163
+msgid "No Selected Contestants."
+msgstr ""
+
+#: PropFormU.pas:142
+#: PropFormU.pas:151
+msgid "(none)"
+msgstr ""
+
+#: PropFormU.pas:214
+msgid "The test message has been sent."
+msgstr ""
+
+#: PropFormU.pas:214
+msgid "Information"
+msgstr ""
+
+#: ResultFormU.pas:223
+msgid "Problem: %s"
+msgstr ""
+
+#: ResultFormU.pas:225
+msgid "File Name: %s"
+msgstr ""
+
+#: ResultFormU.pas:228
+#: ResultFormU.pas:232
+msgid "Rejudge"
+msgstr ""
+
+#: ResultFormU.pas:231
+msgid "Unable to compile the program"
+msgstr ""
+
+#: ResultFormU.pas:239
+msgid "Testcase"
+msgstr ""
+
+#: ResultFormU.pas:240
+msgid "Result"
+msgstr ""
+
+#: ResultFormU.pas:243
+msgid "Memory"
+msgstr ""
+
+#: ResultFormU.pas:263
+msgid "Correct"
+msgstr ""
+
+#: ResultFormU.pas:267
+msgid "Partly Correct"
+msgstr ""
+
+#: ResultFormU.pas:273
+msgid "Missing Standard Input"
+msgstr ""
+
+#. if ppr.ProblemResults.Items[i].TestCaseResults.Items[j].Status in [3,5,7,8,9,10,11,12] then
+#: ResultFormU.pas:296
+msgid "Score: %s"
+msgstr ""
+
+#: ResultFormU.pas:296
+msgid "Time: %fs"
+msgstr ""
+

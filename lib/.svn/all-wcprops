@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/6/trunk/lib
+END
+ojrc.pas
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/lib/ojrc.pas
+END
+diffu.pas
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/lib/diffu.pas
+END
+ojtc.pas
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/lib/ojtc.pas
+END
+_clean.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/lib/_clean.cmd
+END
+libojcd.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/lib/libojcd.pas
+END
+MyUtils.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/lib/MyUtils.pas
+END
+GIFImage.pas
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/lib/GIFImage.pas
+END
+libxml2.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/lib/libxml2.pas
+END
+MyTypes.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/lib/MyTypes.pas
+END
+crc32.pas
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/lib/crc32.pas
+END
+ojconst.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/lib/ojconst.pas
+END
+ojsort.pas
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/lib/ojsort.pas
+END
+ojcount.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/lib/ojcount.pas
+END
+Forms.pas
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/lib/Forms.pas
+END
+ProjectInit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/lib/ProjectInit.pas
+END
+ojwin32.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/lib/ojwin32.pas
+END

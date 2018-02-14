@@ -1,0 +1,13 @@
+\A{commoncompilers} 常用编译器编译命令
+
+\b Turbo Pascal: \c{tpc.exe %s.pas}
+
+\b Free Pascal: \c{fpc.exe %s.pas}
+
+\b Delphi: \c{dcc32.exe %s.pas}
+
+\b GCC: \c{gcc.exe %s.c -o %s.exe}
+
+\b G++: \c{g++.exe %s.cpp -o %s.exe}
+
+请在系统中设置好必要的环境变量。

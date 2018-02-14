@@ -1,0 +1,26 @@
+<HTML><BODY><UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Cena 使用指南"><param name="Local" value="Contents.html"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter1.html#"><param name="Name" value="概述"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter1.html#1.1"><param name="Name" value="关于 Cena  本测评系统由长沙市一中研发，湖南省信息学奥林匹克竞赛委员会监制。"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter1.html#1.2"><param name="Name" value="特点"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter2.html#"><param name="Name" value="准备工作"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter2.html#2.1"><param name="Name" value="配置编程语言"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter2.html#2.2"><param name="Name" value="部署客户端"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter2.html#2.2.1"><param name="Name" value="网络安装"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter2.html#2.2.2"><param name="Name" value="常规安装"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter2.html#2.3"><param name="Name" value="客户端设置"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter2.html#2.4"><param name="Name" value="更改客户端设置"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter2.html#2.5"><param name="Name" value="有关客户端的安全问题"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#"><param name="Name" value="开始评测"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.1"><param name="Name" value="新建或打开一次竞赛"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.2"><param name="Name" value="为一次竞赛配置数据"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.2.1"><param name="Name" value="输出文件的比较与评分"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.2.2"><param name="Name" value="自定义校验器说明"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.3"><param name="Name" value="选手程序"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.3.1"><param name="Name" value="通过网络收取"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.4"><param name="Name" value="评测"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.5"><param name="Name" value="查看评测结果"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.6"><param name="Name" value="对评测结果进行统计分析"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.7"><param name="Name" value="打印和导出评测结果"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="Chapter3.html#3.8"><param name="Name" value="关闭竞赛"></OBJECT></li>
+<li><OBJECT type="text/sitemap"><param name="Local" value="AppendixA.html#A"><param name="Name" value="常用编译器编译命令"></OBJECT></li>
+</ul></BODY></HTML>

@@ -1,0 +1,14 @@
+\title Cena 使用指南
+
+\cfg{xhtml-leaf-level}{1}
+
+\cfg{xhtml-leaf-contains-contents}{false}
+
+\cfg{xhtml-contents-depth-0}{5}
+
+\cfg{xhtml-head-end}{<link rel="stylesheet" href="style.css" type='text/css' />}
+
+\cfg{chm-toc-file}{toc.hhc}
+
+\cfg{chm-ind-file}{ind.hhk}
+

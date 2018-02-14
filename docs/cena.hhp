@@ -1,0 +1,21 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=cena.chm
+Contents file=toc.hhc
+Default Window=Main
+Default topic=Contents.html
+Display compile progress=Yes
+Full-text search=Yes
+Index file=ind.hhk
+Language=0x804 中文(中国)
+Title=Cena 使用指南
+
+[WINDOWS]
+Main="Cena 使用指南","toc.hhc","ind.hhk","Contents.html","Contents.html",,,,,0x23520,,0x387e,,0xb0000,,,,,,0
+
+
+[FILES]
+Contents.html
+
+[INFOTYPES]
+

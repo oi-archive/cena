@@ -1,0 +1,52 @@
+10
+
+dir
+7
+http://cena.googlecode.com/svn/trunk
+http://cena.googlecode.com/svn
+
+
+
+2011-07-02T09:55:51.984077Z
+6
+lqs@lqs.me
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3f20588b-f519-0410-9e59-e343fe82dbc1
+
+libcheck
+dir
+
+main
+dir
+
+lib
+dir
+
+docs
+dir
+
+artwork
+dir
+
+autoupdate
+dir
+
+installer
+dir
+
+client
+dir
+
